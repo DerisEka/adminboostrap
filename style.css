@@ -1,0 +1,25 @@
+body {
+    background-image: url('img/bg2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+}
+
+.form-container {
+    width: 10%;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.form-box {
+    background-color: rgba(246, 246, 246, 0.471);
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.form-switch {
+    margin-top: 10px;
+    text-align: center;
+}
